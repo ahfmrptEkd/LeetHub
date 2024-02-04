@@ -1,2 +1,3 @@
 # LeetHub
-Leetcode hub
+This Leetcode Hub
+It contains my coding practice problems
