@@ -8,3 +8,5 @@ Where class In (
     Having count(class) >= 5
 )
 Group by class
+
+-- Count() function only uses in Group by, Having, and Select
