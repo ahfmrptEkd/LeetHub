@@ -15,11 +15,13 @@ It contains my coding solutions and study recap.
     6. Subqueries
     7. Advanced String / Functions / Regex / Clause
   ---
+<br> 
 
+- LeetCode 75
 
 <br><br>
 
 ## Finished
 
 - [x] SQL 50 <br> Essential 50 SQL questions
-- [ ]
+- [ ] LeetCode 75 <br> 75 Essential & Trending problems <br> Must-do problem list for interview prep
