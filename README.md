@@ -6,5 +6,5 @@ It contains my coding solutions and study recap.
 
 ## Finished
 
-- [ ] SQL 50 <br> Essential 50 SQL questions
+- [x] SQL 50 <br> Essential 50 SQL questions
 - [ ]
