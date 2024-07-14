@@ -31,3 +31,15 @@ It contains my coding solutions and study recap.
 - [x] SQL 50 <br> Essential 50 SQL questions
 - [ ] LeetCode 75 <br> 75 Essential & Trending problems <br> Must-do problem list for interview prep
 - [ ] Top 100 Liked <br> 100 most liked problems by LeetCoders. <br> Organized based on hot topics that help improve coding skills in interviews.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/ahfmrptEkd/LeetHub/tree/master/0066-plus-one) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/ahfmrptEkd/LeetHub/tree/master/0066-plus-one) |
+<!---LeetCode Topics End-->
