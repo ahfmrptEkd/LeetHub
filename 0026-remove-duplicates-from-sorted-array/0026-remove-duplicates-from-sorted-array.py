@@ -1,11 +1,16 @@
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
-        l, r = 0, 1
+        duplicate_checker = [nums[0]]
+        change_index = 1
 
-        for i in range(len(nums)-1):
-
-            if r >= len(nums) or (nums[l] == nums[r]):   # 범위 제한
-                nums.pop(r)
+        for i in range(1, len(nums)):
+            if nums[i] == duplicate_checker[-1]:
+                continue
             else:
-                l += 1
-                r = l + 1
+                duplicate_checker.append(nums[i])
+                nums[change_index] = nums[i]
+                change_index += 1
+                    
+        k = len(duplicate_checker)
+
+        return k
