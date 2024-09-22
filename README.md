@@ -40,6 +40,7 @@ It contains my coding solutions and study recap.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ahfmrptEkd/LeetHub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/ahfmrptEkd/LeetHub/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ahfmrptEkd/LeetHub/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0169-majority-element](https://github.com/ahfmrptEkd/LeetHub/tree/master/0169-majority-element) |
 | [0498-diagonal-traverse](https://github.com/ahfmrptEkd/LeetHub/tree/master/0498-diagonal-traverse) |
 ## Math
 |  |
@@ -58,4 +59,20 @@ It contains my coding solutions and study recap.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ahfmrptEkd/LeetHub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ahfmrptEkd/LeetHub/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ahfmrptEkd/LeetHub/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ahfmrptEkd/LeetHub/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ahfmrptEkd/LeetHub/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ahfmrptEkd/LeetHub/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
