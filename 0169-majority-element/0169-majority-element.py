@@ -1,21 +1,16 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
         """
-        most bin 은 n/2 만큼
-        n^2 까진 한도
-        정렬 후 그 빈도수 체크로 나아가면 될 듯
-        max 값을 유지하면서 가는 것.(value, 빈도)
+        최적의 해결책은 Boyer-Moore 과반수 투표 알고리즘을 사용하는 것입니다. 이 알고리즘은 O(n) 시간 복잡도와 O(1) 공간 복잡도를 가지며
+        문제에서 "과반수 원소가 항상 존재한다"고 가정했으므로, 이 알고리즘은 항상 정확한 결과를 반환합니다
         """
-        max_bin = dict()
-
-        for i, k in enumerate(nums):
-            if k in max_bin:
-                max_bin[k] += 1
-            else:
-                max_bin[k] = 1
+        candidate = None
+        count = 0
+        # nums.sort()   # 이 부분이 있든 없든 항상 정확하다.
         
-        ans = max(max_bin, key=max_bin.get)
-        return ans
-
-
+        for num in nums:
+            if count == 0:
+                candidate = num
+            count += (1 if num == candidate else -1)
         
+        return candidate
