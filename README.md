@@ -41,11 +41,13 @@ It contains my coding solutions and study recap.
 | [0066-plus-one](https://github.com/ahfmrptEkd/LeetHub/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ahfmrptEkd/LeetHub/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/ahfmrptEkd/LeetHub/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/ahfmrptEkd/LeetHub/tree/master/0189-rotate-array) |
 | [0498-diagonal-traverse](https://github.com/ahfmrptEkd/LeetHub/tree/master/0498-diagonal-traverse) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ahfmrptEkd/LeetHub/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/ahfmrptEkd/LeetHub/tree/master/0189-rotate-array) |
 ## Matrix
 |  |
 | ------- |
@@ -59,6 +61,7 @@ It contains my coding solutions and study recap.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ahfmrptEkd/LeetHub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ahfmrptEkd/LeetHub/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/ahfmrptEkd/LeetHub/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
