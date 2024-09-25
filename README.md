@@ -40,6 +40,7 @@ It contains my coding solutions and study recap.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ahfmrptEkd/LeetHub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/ahfmrptEkd/LeetHub/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ahfmrptEkd/LeetHub/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ahfmrptEkd/LeetHub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/ahfmrptEkd/LeetHub/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ahfmrptEkd/LeetHub/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/ahfmrptEkd/LeetHub/tree/master/0274-h-index) |
@@ -84,4 +85,12 @@ It contains my coding solutions and study recap.
 |  |
 | ------- |
 | [0274-h-index](https://github.com/ahfmrptEkd/LeetHub/tree/master/0274-h-index) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ahfmrptEkd/LeetHub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ahfmrptEkd/LeetHub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
