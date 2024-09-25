@@ -42,6 +42,7 @@ It contains my coding solutions and study recap.
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ahfmrptEkd/LeetHub/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/ahfmrptEkd/LeetHub/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ahfmrptEkd/LeetHub/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/ahfmrptEkd/LeetHub/tree/master/0274-h-index) |
 | [0498-diagonal-traverse](https://github.com/ahfmrptEkd/LeetHub/tree/master/0498-diagonal-traverse) |
 ## Math
 |  |
@@ -74,8 +75,13 @@ It contains my coding solutions and study recap.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ahfmrptEkd/LeetHub/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/ahfmrptEkd/LeetHub/tree/master/0274-h-index) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ahfmrptEkd/LeetHub/tree/master/0169-majority-element) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/ahfmrptEkd/LeetHub/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
