@@ -38,6 +38,7 @@ It contains my coding solutions and study recap.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ahfmrptEkd/LeetHub/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0045-jump-game-ii](https://github.com/ahfmrptEkd/LeetHub/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/ahfmrptEkd/LeetHub/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ahfmrptEkd/LeetHub/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ahfmrptEkd/LeetHub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -88,9 +89,11 @@ It contains my coding solutions and study recap.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ahfmrptEkd/LeetHub/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ahfmrptEkd/LeetHub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ahfmrptEkd/LeetHub/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ahfmrptEkd/LeetHub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
