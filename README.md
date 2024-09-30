@@ -44,6 +44,7 @@ It contains my coding solutions and study recap.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ahfmrptEkd/LeetHub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/ahfmrptEkd/LeetHub/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ahfmrptEkd/LeetHub/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/ahfmrptEkd/LeetHub/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/ahfmrptEkd/LeetHub/tree/master/0274-h-index) |
 | [0498-diagonal-traverse](https://github.com/ahfmrptEkd/LeetHub/tree/master/0498-diagonal-traverse) |
 ## Math
@@ -96,4 +97,8 @@ It contains my coding solutions and study recap.
 | ------- |
 | [0045-jump-game-ii](https://github.com/ahfmrptEkd/LeetHub/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ahfmrptEkd/LeetHub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/ahfmrptEkd/LeetHub/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
