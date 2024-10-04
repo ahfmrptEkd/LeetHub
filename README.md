@@ -53,6 +53,7 @@ It contains my coding solutions and study recap.
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ahfmrptEkd/LeetHub/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/ahfmrptEkd/LeetHub/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/ahfmrptEkd/LeetHub/tree/master/0189-rotate-array) |
 ## Matrix
@@ -73,6 +74,7 @@ It contains my coding solutions and study recap.
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ahfmrptEkd/LeetHub/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/ahfmrptEkd/LeetHub/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -116,4 +118,8 @@ It contains my coding solutions and study recap.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ahfmrptEkd/LeetHub/tree/master/0042-trapping-rain-water) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/ahfmrptEkd/LeetHub/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
