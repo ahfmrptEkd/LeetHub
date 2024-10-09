@@ -1,4 +1,4 @@
-from itertools import chain
+from itertools import chain, zip_longest
 
 class Solution:
     def fullJustify(self, words: List[str], maxWidth: int) -> List[str]:
@@ -22,7 +22,6 @@ class Solution:
             if l == len(words) or len(container) == 1:
                 line = " ".join(container).ljust(maxWidth) 
                 res.append(line)
-                # break
             else:
                 # pad_length 가 홀 수 인 경우 처리가 필요.
                 pad_count = len(container) - 1
@@ -32,21 +31,20 @@ class Solution:
                 extra_pad = total_pad % pad_count
                 
                 ### -> 1
-                pads = [" " * base_pad for _ in range(pad_count)]
+                # pads = [" " * base_pad for _ in range(pad_count)]
 
-                # 홀 수 인 경우
-                if extra_pad:
-                    for i in range(extra_pad):
-                        pads[i] += " "
+                # # 홀 수 인 경우
+                # if extra_pad:
+                #     for i in range(extra_pad):
+                #         pads[i] += " "
                 ###
                 ### -> 2
-                # pads = [" " * (base_pad + (1 if i < extra_pad else 0)) for i in range(pad_count)]
+                pads = [" " * (base_pad + (1 if i < extra_pad else 0)) for i in range(pad_count)]
 
-                line = list(chain(*zip(container, pads + [''])))[:-1]
-                # line = list(chain(*zip(container, pads)))
+                #line = list(chain(*zip(container, pads + [''])))[:-1]
+                line = list(chain(*zip_longest(container, pads, fillvalue='')))
                 line_str = "".join(line)
                 res.append(line_str)
-                # break
         
         return res
 
