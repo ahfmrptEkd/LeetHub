@@ -41,6 +41,7 @@ It contains my coding solutions and study recap.
 | [0042-trapping-rain-water](https://github.com/ahfmrptEkd/LeetHub/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ahfmrptEkd/LeetHub/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/ahfmrptEkd/LeetHub/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/ahfmrptEkd/LeetHub/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ahfmrptEkd/LeetHub/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ahfmrptEkd/LeetHub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ahfmrptEkd/LeetHub/tree/master/0134-gas-station) |
@@ -64,6 +65,7 @@ It contains my coding solutions and study recap.
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/ahfmrptEkd/LeetHub/tree/master/0068-text-justification) |
 | [0498-diagonal-traverse](https://github.com/ahfmrptEkd/LeetHub/tree/master/0498-diagonal-traverse) |
 ## Two Pointers
 |  |
@@ -129,6 +131,7 @@ It contains my coding solutions and study recap.
 | [0014-longest-common-prefix](https://github.com/ahfmrptEkd/LeetHub/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ahfmrptEkd/LeetHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ahfmrptEkd/LeetHub/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/ahfmrptEkd/LeetHub/tree/master/0068-text-justification) |
 ## Trie
 |  |
 | ------- |
