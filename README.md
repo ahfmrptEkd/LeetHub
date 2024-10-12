@@ -37,6 +37,7 @@ It contains my coding solutions and study recap.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ahfmrptEkd/LeetHub/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ahfmrptEkd/LeetHub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ahfmrptEkd/LeetHub/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ahfmrptEkd/LeetHub/tree/master/0045-jump-game-ii) |
@@ -71,6 +72,7 @@ It contains my coding solutions and study recap.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ahfmrptEkd/LeetHub/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ahfmrptEkd/LeetHub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ahfmrptEkd/LeetHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/ahfmrptEkd/LeetHub/tree/master/0042-trapping-rain-water) |
@@ -112,6 +114,7 @@ It contains my coding solutions and study recap.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ahfmrptEkd/LeetHub/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/ahfmrptEkd/LeetHub/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ahfmrptEkd/LeetHub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ahfmrptEkd/LeetHub/tree/master/0134-gas-station) |
