@@ -40,6 +40,7 @@ It contains my coding solutions and study recap.
 | [0011-container-with-most-water](https://github.com/ahfmrptEkd/LeetHub/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ahfmrptEkd/LeetHub/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ahfmrptEkd/LeetHub/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0036-valid-sudoku](https://github.com/ahfmrptEkd/LeetHub/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/ahfmrptEkd/LeetHub/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ahfmrptEkd/LeetHub/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/ahfmrptEkd/LeetHub/tree/master/0066-plus-one) |
@@ -65,6 +66,7 @@ It contains my coding solutions and study recap.
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ahfmrptEkd/LeetHub/tree/master/0036-valid-sudoku) |
 | [0498-diagonal-traverse](https://github.com/ahfmrptEkd/LeetHub/tree/master/0498-diagonal-traverse) |
 ## Simulation
 |  |
@@ -89,6 +91,7 @@ It contains my coding solutions and study recap.
 | ------- |
 | [0012-integer-to-roman](https://github.com/ahfmrptEkd/LeetHub/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ahfmrptEkd/LeetHub/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/ahfmrptEkd/LeetHub/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/ahfmrptEkd/LeetHub/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/ahfmrptEkd/LeetHub/tree/master/0169-majority-element) |
 ## Divide and Conquer
