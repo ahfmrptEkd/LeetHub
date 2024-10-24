@@ -43,6 +43,7 @@ It contains my coding solutions and study recap.
 | [0036-valid-sudoku](https://github.com/ahfmrptEkd/LeetHub/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/ahfmrptEkd/LeetHub/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ahfmrptEkd/LeetHub/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/ahfmrptEkd/LeetHub/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ahfmrptEkd/LeetHub/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ahfmrptEkd/LeetHub/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/ahfmrptEkd/LeetHub/tree/master/0068-text-justification) |
@@ -62,12 +63,14 @@ It contains my coding solutions and study recap.
 | ------- |
 | [0012-integer-to-roman](https://github.com/ahfmrptEkd/LeetHub/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ahfmrptEkd/LeetHub/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/ahfmrptEkd/LeetHub/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ahfmrptEkd/LeetHub/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/ahfmrptEkd/LeetHub/tree/master/0189-rotate-array) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ahfmrptEkd/LeetHub/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/ahfmrptEkd/LeetHub/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ahfmrptEkd/LeetHub/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/ahfmrptEkd/LeetHub/tree/master/0498-diagonal-traverse) |
 ## Simulation
