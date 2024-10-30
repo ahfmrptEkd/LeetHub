@@ -1,0 +1,15 @@
+from collections import Counter
+class Solution:
+    def isAnagram(self, s: str, t: str) -> bool:
+        dict_s = Counter(s)
+        dict_t = Counter(t)
+
+        # k 가 없으면 false
+        # k 의 개수가 달라도 false
+
+        for k in dict_s:
+            if k not in dict_t:
+                return False
+            elif dict_s[k] != dict_t[k]:
+                return False
+        return True
