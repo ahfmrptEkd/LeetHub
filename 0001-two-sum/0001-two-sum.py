@@ -1,25 +1,23 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        # 한 개의 답이 딱 있다.
-        # 같은 원소 2개 안됨
-        # dictionary 로 원소의 인덱스 보관
-        # 정렬해서 two-pointer 접근
-        # target 이 되는 순간 break
-        # target 보다 크면 r - 1
-        # target 보다 작으면 l + 1
-        # 같은 원소에 대해서 i 가 갱신되는거 문제.
-        if len(nums) == 2:
-            return [0,1]
-
-        l, r = 0, len(nums)-1
-        idx = [(v, i) for i, v in enumerate(nums)]
-        idx.sort(key=lambda x:x[0])
-
-        while l < r:
-            if (idx[l][0] + idx[r][0]) == target:
-                return [idx[l][1], idx[r][1]]
-            elif (idx[l][0] + idx[r][0]) < target:
-                l += 1
-            else:
-                r -= 1
+        # 문제 조건:
+        # 1. 정확히 하나의 유효한 답만 존재
+        # 2. 같은 원소를 두 번 사용할 수 없음
+        # 3. 답은 두 수의 인덱스를 담은 리스트로 반환
+        
+        # 해시맵(딕셔너리)를 사용하여 각 숫자의 인덱스를 저장
+        past = {}
+        
+        # 리스트를 한 번만 순회하면서 답을 찾음 (O(n) 시간 복잡도)
+        for i, num in enumerate(nums):
+            # 현재 숫자와 더해서 target이 되는 수(complement) 계산
+            complement = target - num
             
+            # complement가 이미 past에 있다면 답을 찾은 것
+            if complement in past:
+                # [이전에 저장된 complement의 인덱스, 현재 숫자의 인덱스] 반환
+                return [past[complement], i]
+            
+            # 현재 숫자와 그 인덱스를 past에 저장
+            # 다음 순회에서 다른 숫자의 complement로 활용될 수 있음
+            past[num] = i
