@@ -15,7 +15,7 @@ It contains my coding solutions and study recap.
 
 <br><br>
 
-<!---LeetCode Topics Start-->
+<!---LeetCode Topics Start
 # LeetCode Topics
 ## Array
 |  |
@@ -162,4 +162,4 @@ It contains my coding solutions and study recap.
 | ------- |
 | [0076-minimum-window-substring](https://github.com/ahfmrptEkd/LeetHub/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/ahfmrptEkd/LeetHub/tree/master/0209-minimum-size-subarray-sum) |
-<!---LeetCode Topics End-->
+LeetCode Topics End-->
