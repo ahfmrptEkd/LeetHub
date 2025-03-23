@@ -36,19 +36,19 @@ class Solution:
                 c = board[nx][ny]              # 다음 칸의 문자
                 if c in trie.children:         # 해당 문자가 트라이에 있으면
                     dfs(nx,ny,trie.children[c]) # 계속 탐색
-                    if not trie.children[c].children and not trie.children[c].is_end:   # 빈 dictionary이면서 단어 끝이 없다?
+                    if not trie.children[c].children:   # 빈 dictionary이면서 단어 끝이 없다?
                         del trie.children[c]                                            # 노드 삭제 (속도 향상)
             board[x][y] = original            # 백트래킹: 원래 값으로 복구
 
         def combination():
-            board_chars = set(ch for row in board for ch in row)
-
+            board_chars = set(ch for row in board for ch in row)    # 문자 용 set 생성
             filtered_words = []
+
             for word in words:
-                if all(c in board_chars for c in word):
+                if all(c in board_chars for c in word): # word의 문자가 다 있는 문자만 words 리스트 생성
                     filtered_words.append(word)
             
-            filtered_words.sort(key=len)
+            filtered_words.sort(key=len) # 단어의 크기로 정령
             return filtered_words
 
         filterd_words = combination()
