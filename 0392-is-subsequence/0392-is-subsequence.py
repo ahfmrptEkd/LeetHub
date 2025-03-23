@@ -12,15 +12,13 @@ class Solution:
         """
 
         sub = [c for c in s]
-        print(sub)
 
         main = [c for c in t]
-        print(main)
 
         l, r = 0, 0
 
         while l < len(sub) and r < len(main):
-            if sub[l] == t[r]:  # s의 현재 원소가 t의 현재 원소와 같으면
+            if sub[l] == main[r]:  # s의 현재 원소가 t의 현재 원소와 같으면
                 l += 1
                 r += 1
             else:
