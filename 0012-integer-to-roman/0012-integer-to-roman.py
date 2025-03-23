@@ -1,13 +1,25 @@
 class Solution:
+    def prepare_num(self, num) -> list:
+        num_str = str(num)
+        length = len(num_str)
+        container = []
+        for i, digit in enumerate(num_str):
+            place_value = 10 ** (length - i - 1)
+            container.append(int(digit)*place_value)
+        return container
+
     def intToRoman(self, num: int) -> str:
-        # 받은 숫자를 줄여 나가는 식으로 딕셔너리를 순환하게 한다.
-        math = {"I":1, "IV":4, "V":5, "IX":9, "X":10, "XL":40, "L":50, "XC":90, "C":100, "CD":400, "D":500, "CM":900, "M":1000}
-        sorted_math = sorted(math.items(), key=lambda x:x[1], reverse=True)     # 역순으로 정렬하여 큰값 부터 줄여나가게끔
+        math = {
+        1000: 'M', 900: 'CM', 500: 'D', 400: 'CD',
+        100: 'C', 90: 'XC', 50: 'L', 40: 'XL',
+        10: 'X', 9: 'IX', 5: 'V', 4: 'IV', 1: 'I'
+        }
+
+        ans = []
+        for value in self.prepare_num(num):
+            for roman_value, roman_symbol in math.items():
+                while value >= roman_value:
+                    ans.append(roman_symbol)
+                    value -= roman_value
         
-        ans = ""
-        for symbol, value in sorted_math:
-            while num >= value:     # 숫자가 현재 값보다 작아지면 다음 값과 비교
-                ans += symbol
-                num -= value
-        
-        return ans
+        return ''.join(ans)
