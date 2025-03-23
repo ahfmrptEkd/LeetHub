@@ -30,18 +30,8 @@ class Solution:
                 base_pad = total_pad // pad_count
                 extra_pad = total_pad % pad_count
                 
-                ### -> 1
-                # pads = [" " * base_pad for _ in range(pad_count)]
-
-                # # 홀 수 인 경우
-                # if extra_pad:
-                #     for i in range(extra_pad):
-                #         pads[i] += " "
-                ###
-                ### -> 2
                 pads = [" " * (base_pad + (1 if i < extra_pad else 0)) for i in range(pad_count)]
 
-                #line = list(chain(*zip(container, pads + [''])))[:-1]
                 line = list(chain(*zip_longest(container, pads, fillvalue='')))
                 line_str = "".join(line)
                 res.append(line_str)
