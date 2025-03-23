@@ -40,4 +40,4 @@ class Solution:
                    visited.add(w)    # 방문 표시
                    queue.append((w, change+1))  # 큐에 추가 (변환 횟수 1 증가)
        
-       return 0
+       return 0 
