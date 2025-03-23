@@ -6,10 +6,10 @@ class Solution:
         i = 0
 
         while i < len(s):
-            if i + 1 < len(s) and s[i:i+2] in math:
+            if i + 1 < len(s) and s[i:i+2] in math: # 인덱싱 범위를 넘지 않고 2개를 확인했을 때 있는 경우
                 ans += math[s[i:i+2]]
                 i += 2
             else:
-                ans += math[s[i]]
+                ans += math[s[i]]   # 아닌 나머지 동일하다는 뜻
                 i += 1
         return ans
