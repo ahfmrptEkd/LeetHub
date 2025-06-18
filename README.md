@@ -11,4 +11,8 @@ It contains my coding solutions and study recap.
 - [x] Top 150
 <br>
 
-- [ ] LeetCode 75
+- [x] LeetCode 75
+<br>
+
+- [ ] Top 100 Liked
+<br>
