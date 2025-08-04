@@ -13,9 +13,9 @@ public:
         }
 
         // step 2 - revserse each rows
-        // 90 degree = transpose -> row reverse
-        // 180 =       row reverse -> column reverse
-        // 270 =       row reverse -> transpose
+        // 90 degree = transpose -> reverse inside row
+        // 180 =       reverse rows (1,2,3,4 -> 4,3,2,1) -> reverse inside row
+        // 270 =       reverse inside row -> transpose
         for (int i = 0; i < n; i++)
         {
             for (int j = 0; j < n / 2; j++)
