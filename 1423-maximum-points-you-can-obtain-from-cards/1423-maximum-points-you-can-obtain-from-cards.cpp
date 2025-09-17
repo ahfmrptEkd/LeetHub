@@ -22,9 +22,6 @@ public:
         answer = max(answer, total_sum - current_sum);
         
         for (int i = 0; i < k; i++) {
-            // current_window.pop_front();
-            // current_window.push_back(cardPoints[i + window_size]);
-            
             current_sum -= cardPoints[i];
             current_sum += cardPoints[i + window_size];
             
